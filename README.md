@@ -1,9 +1,8 @@
-## Welcome to razvii's main page!
-## OwO
+### Welcome to razvii's main page!
 
-You can use the [editor on GitHub](https://github.com/razvii22/razvii22.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#This is just meant as a simple landing page with most if not all of my socials, projects and information that I am willing to give out
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -11,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
