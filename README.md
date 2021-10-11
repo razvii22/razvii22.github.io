@@ -1,25 +1,22 @@
 ### Welcome to razvii's main page!
 
-##This is just meant as a simple landing page with most if not all of my socials, projects and information that I am willing to give out
+
+
+#### This is just meant as a basic landing page with most if not all of my socials, projects and information that I am willing to give out.
+
+
+## Short Description
+I am a recent graduate from a technical highschool with a deep passion and interest in finding out how the littlest things work.
+Recently I have taken interest in 3d printing and general CNC mechanisms, and now own a 3d printer and working towards assembling my own CNC router.
+I have taken a year off of school due to personal reasons so I have started learning programming in Lua and the Love2d framework!
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-```
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## [Fiverr Store](https://www.fiverr.com/therazbee)
+ I have opened a fiverr page where right now I am just offering 3D CAD designs created in [FreeCAD](https://www.freecad.org/)(My software of choice!) for a little profit and mostly for experience in industrial design,3D printing and CNC manufacturing in general, maybe drop by and buy something for 5 dollars?
+ I may be planning on selling other similar services in the near future, but that remains to be seen
+ 
+ 
 
 **Bold** and _Italic_ and `Code` text
 
