@@ -1,6 +1,6 @@
 ### Welcome to razvii's main page!
 
-#This is just meant as a simple landing page with most if not all of my socials, projects and information that I am willing to give out
+##This is just meant as a simple landing page with most if not all of my socials, projects and information that I am willing to give out
 
 
 
