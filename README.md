@@ -37,7 +37,7 @@ on [Odysee](https://odysee.com/@Epsicron) and on [Youtube](https://www.youtube.c
  
 <img src="https://raw.githubusercontent.com/razvii22/razvii22.github.io/main/RazOWO.png" width="30" /> Razvii
 on [Odysee](https://odysee.com/@Razvii) and on [Youtube](https://www.youtube.com/channel/UCS5TbqdKHkryEjXyq9vEzqg)
-, I plan on making some technology related videos on this channel.
+, I plan on making some tech related videos on this channel.
  
 <img src="https://raw.githubusercontent.com/razvii22/razvii22.github.io/main/RazOWO.png" width="30" /> razvii
 on [Thingiverse](https://www.thingiverse.com/razvii), Where I might start posting my designs.
