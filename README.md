@@ -11,7 +11,7 @@ Recently I have taken interest in 3d printing and general CNC mechanisms, and no
 I have taken a year off of school due to personal reasons so I have started learning programming in Lua and the [Love2d](https://love2d.org/) framework!
  
 Though, all this being said, a great passion of mine is taking in broken,disheveled or in general old and thought to be useless hardware such as laptops,computers and printers, and repurposing them into new or at the very least useful projects, when I start posting about that, you will be able to find info and maybe videos of it on:
-### [Epsicronics](https://razvii22.github.io/Epsicronics)
+### [Epsicronics](https://razvii22.github.io/epsicronics)
 (WIP!)
  
 Recently I have also taken interest in Linux, having used it a lot in VMS, and am now running [EndeavourOS](https://endeavouros.com/) and enjoying actually having freedom with my computer!
